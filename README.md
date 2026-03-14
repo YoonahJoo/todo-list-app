@@ -54,6 +54,22 @@ Todo data is stored in **localStorage**, so tasks remain even after refreshing t
 
 ---
 
+## What I Learned
+
+- How to manage a dynamic task list with JavaScript
+- How to update the UI through DOM manipulation
+- How to store and retrieve task data using localStorage
+- How to implement task filtering based on completion status
+
+## Future Improvements
+
+- Add task editing functionality
+- Add due dates and priority options
+- Improve mobile responsiveness
+- Add dark mode
+
+---
+
 ## Author
 
 **Yoonah Joo**
